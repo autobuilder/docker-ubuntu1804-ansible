@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/github/license/autobuilder/docker-ubuntu1804-ansible)](https://opensource.org/licenses/MIT)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/autobuilder/docker-ubuntu1804-ansible/issues)
 
-Ubuntu-18.04 Docker image fo Ansible test
+Ubuntu-18.04 Docker image for Ansible test
 
 ---
 
